@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Samiul Islam and I'm a Full Stack Developer from Bangladesh.</h2>
+<h2 align="left">Hi 👋! This is Samiul Islam. A Full Stack Developer from Bangladesh.</h2>
 
 ###
 
