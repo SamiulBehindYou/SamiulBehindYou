@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! This is Samiul Islam. A Full Stack Developer from Bangladesh.</h2>
+<h2 align="left">Hi 👋! This is Samiul Islam. A Full Stack Web Developer from Bangladesh.</h2>
+<h2 align="left">Mail me on "shamiul982@gmail.com"</h2>
 
 ###
 
