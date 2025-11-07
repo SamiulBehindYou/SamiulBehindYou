@@ -7,10 +7,10 @@
 
 ###
 
-<div align="center">
+<!-- <div align="center">
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samiulbehindyou&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+</div> -->
 
 ###
 <h4 align="left">The toys I use</h4>
